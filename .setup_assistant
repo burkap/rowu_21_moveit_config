@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: arm_21_gazebo
+    relative_path: urdf/arm_21_gazebo.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/arm_21_gazebo.srdf
+  CONFIG:
+    author_name: Burak Payzun
+    author_email: payzunburak@gmail.com
+    generated_timestamp: 1636639432
